@@ -1,0 +1,117 @@
+Time:
+0.0700 secs
+Memory:
+3.572 Mb
+Your Output
+The number of digits in first big integer = 5
+first and second are equal!
+third is smaller than fourth!
+fifth is larger than fourth!
+first = 12345
+second = 12345
+third = 10000
+fourth = 100000
+fifth = 10000000
+After incrementing the value of first is : 12346
+Sum of fourth and fifth = 10100000
+Product of second and third = 123450000
+-------------------------Fibonacci------------------------------
+Fibonacci 0 = 0
+Fibonacci 1 = 1
+Fibonacci 2 = 1
+Fibonacci 3 = 2
+Fibonacci 4 = 3
+Fibonacci 5 = 5
+Fibonacci 6 = 8
+Fibonacci 7 = 13
+Fibonacci 8 = 21
+Fibonacci 9 = 34
+Fibonacci 10 = 55
+Fibonacci 11 = 89
+Fibonacci 12 = 144
+Fibonacci 13 = 233
+Fibonacci 14 = 377
+Fibonacci 15 = 610
+Fibonacci 16 = 987
+Fibonacci 17 = 1597
+Fibonacci 18 = 2584
+Fibonacci 19 = 4181
+Fibonacci 20 = 6765
+Fibonacci 21 = 10946
+Fibonacci 22 = 17711
+Fibonacci 23 = 28657
+Fibonacci 24 = 46368
+Fibonacci 25 = 75025
+Fibonacci 26 = 121393
+Fibonacci 27 = 196418
+Fibonacci 28 = 317811
+Fibonacci 29 = 514229
+Fibonacci 30 = 832040
+Fibonacci 31 = 1346269
+Fibonacci 32 = 2178309
+Fibonacci 33 = 3524578
+Fibonacci 34 = 5702887
+Fibonacci 35 = 9227465
+Fibonacci 36 = 14930352
+Fibonacci 37 = 24157817
+Fibonacci 38 = 39088169
+Fibonacci 39 = 63245986
+Fibonacci 40 = 102334155
+Fibonacci 41 = 165580141
+Fibonacci 42 = 267914296
+Fibonacci 43 = 433494437
+Fibonacci 44 = 701408733
+Fibonacci 45 = 1134903170
+Fibonacci 46 = 1836311903
+Fibonacci 47 = 2971215073
+Fibonacci 48 = 4807526976
+Fibonacci 49 = 7778742049
+Fibonacci 50 = 12586269025
+Fibonacci 51 = 20365011074
+Fibonacci 52 = 32951280099
+Fibonacci 53 = 53316291173
+Fibonacci 54 = 86267571272
+Fibonacci 55 = 139583862445
+Fibonacci 56 = 225851433717
+Fibonacci 57 = 365435296162
+Fibonacci 58 = 591286729879
+Fibonacci 59 = 956722026041
+Fibonacci 60 = 1548008755920
+Fibonacci 61 = 2504730781961
+Fibonacci 62 = 4052739537881
+Fibonacci 63 = 6557470319842
+Fibonacci 64 = 10610209857723
+Fibonacci 65 = 17167680177565
+Fibonacci 66 = 27777890035288
+Fibonacci 67 = 44945570212853
+Fibonacci 68 = 72723460248141
+Fibonacci 69 = 117669030460994
+Fibonacci 70 = 190392490709135
+Fibonacci 71 = 308061521170129
+Fibonacci 72 = 498454011879264
+Fibonacci 73 = 806515533049393
+Fibonacci 74 = 1304969544928657
+Fibonacci 75 = 2111485077978050
+Fibonacci 76 = 3416454622906707
+Fibonacci 77 = 5527939700884757
+Fibonacci 78 = 8944394323791464
+Fibonacci 79 = 14472334024676221
+Fibonacci 80 = 23416728348467685
+Fibonacci 81 = 37889062373143906
+Fibonacci 82 = 61305790721611591
+Fibonacci 83 = 99194853094755497
+Fibonacci 84 = 160500643816367088
+Fibonacci 85 = 259695496911122585
+Fibonacci 86 = 420196140727489673
+Fibonacci 87 = 679891637638612258
+Fibonacci 88 = 1100087778366101931
+Fibonacci 89 = 1779979416004714189
+Fibonacci 90 = 2880067194370816120
+Fibonacci 91 = 4660046610375530309
+Fibonacci 92 = 7540113804746346429
+Fibonacci 93 = 12200160415121876738
+Fibonacci 94 = 19740274219868223167
+Fibonacci 95 = 31940434634990099905
+Fibonacci 96 = 51680708854858323072
+Fibonacci 97 = 83621143489848422977
+Fibonacci 98 = 13530185234470674...
